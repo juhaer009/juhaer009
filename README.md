@@ -51,7 +51,8 @@ I'm a passionate MERN stack developer with a strong focus on crafting beautiful 
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhaer009"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhaer009&layout=compact" />
+
 
 ---
 
