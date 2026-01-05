@@ -50,8 +50,8 @@ I'm a passionate MERN stack developer with a strong focus on crafting beautiful 
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-![](https://github.com/juhaer009/main/languages.svg)
+<!-- GitHub Profile Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juhaer009&show_icons=true&theme=tokyonight)
 
 </div>
 
