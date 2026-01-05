@@ -50,8 +50,11 @@ I'm a passionate MERN stack developer with a strong focus on crafting beautiful 
 ## 📊 GitHub Statistics
 
 <div align="center">
-<!-- GitHub Profile Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juhaer009&show_icons=true&theme=tokyonight)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juhaer009&theme=tokyonight&layout=compact)
+
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=juhaer009&theme=dark)
+
 
 </div>
 
