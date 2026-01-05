@@ -51,9 +51,7 @@ I'm a passionate MERN stack developer with a strong focus on crafting beautiful 
 
 <div align="center">
 
-![r7tffg](https://github-readme-stats.vercel.app/api?username=juhaer009&show_icons=true&theme=dark)
-
-![](https://github-readme-streak-stats.herokuapp.com?user=juhaer009&theme=dark)
+![](https://github.com/juhaer009/juhaer009/languages.svg)
 
 </div>
 
