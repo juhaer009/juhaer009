@@ -51,7 +51,7 @@ I'm a passionate MERN stack developer with a strong focus on crafting beautiful 
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhaer009)](https://github.com/juhaer009/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhaer009"/>
 
 
 
