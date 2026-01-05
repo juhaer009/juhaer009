@@ -87,6 +87,4 @@ I'm a passionate MERN stack developer with a strong focus on crafting beautiful 
   
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
-
 </div>
