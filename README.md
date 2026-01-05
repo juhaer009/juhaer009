@@ -51,7 +51,7 @@ I'm a passionate MERN stack developer with a strong focus on crafting beautiful 
 
 <div align="center">
 
-![](https://github.com/juhaer009/languages.svg)
+![](https://github.com/juhaer009/main/languages.svg)
 
 </div>
 
