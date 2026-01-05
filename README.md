@@ -16,7 +16,7 @@ I'm a passionate MERN stack developer with a strong focus on crafting beautiful 
 ## 🔭 Current Activities
 
 - 🌱 I'm currently exploring **Next.js** and its powerful features for server-side rendering
-- 💼 Working on an exciting **tourism website** project
+- 💼 Working on an exciting **contest hosting website** project
 - 📚 Deepening my knowledge in modern frontend architecture and design patterns
 - 🎯 Contributing to open-source projects and building my portfolio
 
